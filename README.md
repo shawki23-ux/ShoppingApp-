@@ -24,3 +24,6 @@ A shopping app with electronics, deals, and more
    flutter pub get
 
 flutter run
+## 📸 Screenshot
+
+![App Screenshot](sc1.png)
