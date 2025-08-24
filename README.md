@@ -24,18 +24,21 @@ A shopping app with electronics, deals, and more
    flutter pub get
 
 flutter run
-## 📸 Screenshot
+## 📱 Screenshots
 
-![App Screenshot](sc1.png)
-![App Screenshot](sc2.png)
-![App Screenshot](sc3.png)
-![App Screenshot](sc4.png)
-![App Screenshot](sc5.png)
-![App Screenshot](sc6.png)
-![App Screenshot](sc7.png)
-![App Screenshot](sc8.png)
-![App Screenshot](sc9.png)
-![App Screenshot](sc10.png)
+### 🏠 Home Screen
+![Home](images/s1.png)
+![Home](images/s2.png)
+![Home](images/s3.png)
+![Home](images/s4.png)
+### 🛒 Product List
+![Products](images/s5.png)
+![Products](images/s6.png)
+![Products](images/s7.png)
+![Products](images/s8.png)
+### 🧾 Offers
+![Offers](images/s9.png)
+![Offers](images/s9.png)
 
 
 
