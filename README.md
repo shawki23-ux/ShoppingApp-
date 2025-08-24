@@ -27,18 +27,18 @@ flutter run
 ## 📱 Screenshots
 
 ### 🏠 Home Screen
-![Home](images/s1.png)
-![Home](images/s2.png)
-![Home](images/s3.png)
-![Home](images/s4.png)
+![Home](images/sc1.png)
+![Home](images/sc2.png)
+![Home](images/sc3.png)
+![Home](images/sc4.png)
 ### 🛒 Product List
-![Products](images/s5.png)
-![Products](images/s6.png)
-![Products](images/s7.png)
-![Products](images/s8.png)
+![Products](images/sc5.png)
+![Products](images/sc6.png)
+![Products](images/sc7.png)
+![Products](images/sc8.png)
 ### 🧾 Offers
-![Offers](images/s9.png)
-![Offers](images/s9.png)
+![Offers](images/sc9.png)
+![Offers](images/sc10.png)
 
 
 
